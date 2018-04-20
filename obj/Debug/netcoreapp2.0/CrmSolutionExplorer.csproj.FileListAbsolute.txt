@@ -1,0 +1,10 @@
+/Users/martingoulet/github/CrmSolutionExplorer/bin/Debug/netcoreapp2.0/CrmSolutionExplorer.deps.json
+/Users/martingoulet/github/CrmSolutionExplorer/bin/Debug/netcoreapp2.0/CrmSolutionExplorer.runtimeconfig.json
+/Users/martingoulet/github/CrmSolutionExplorer/bin/Debug/netcoreapp2.0/CrmSolutionExplorer.runtimeconfig.dev.json
+/Users/martingoulet/github/CrmSolutionExplorer/bin/Debug/netcoreapp2.0/CrmSolutionExplorer.dll
+/Users/martingoulet/github/CrmSolutionExplorer/bin/Debug/netcoreapp2.0/CrmSolutionExplorer.pdb
+/Users/martingoulet/github/CrmSolutionExplorer/obj/Debug/netcoreapp2.0/CrmSolutionExplorer.csproj.CoreCompileInputs.cache
+/Users/martingoulet/github/CrmSolutionExplorer/obj/Debug/netcoreapp2.0/CrmSolutionExplorer.AssemblyInfoInputs.cache
+/Users/martingoulet/github/CrmSolutionExplorer/obj/Debug/netcoreapp2.0/CrmSolutionExplorer.AssemblyInfo.cs
+/Users/martingoulet/github/CrmSolutionExplorer/obj/Debug/netcoreapp2.0/CrmSolutionExplorer.dll
+/Users/martingoulet/github/CrmSolutionExplorer/obj/Debug/netcoreapp2.0/CrmSolutionExplorer.pdb
