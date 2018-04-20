@@ -1,0 +1,16 @@
+.sidebar-sticky {
+  padding-top: 30px;
+}
+
+.nav-link {
+  cursor: pointer;
+}
+
+.nav-link.active {
+  background-color: #007bff;
+  color: white;
+}
+
+.material-icons {
+  vertical-align: text-bottom;
+}
